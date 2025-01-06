@@ -93,7 +93,7 @@ Here are some questions the project explores:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/WeRateDogs-Wrangling.git
+   https://github.com/dammmie-beep/Wrangle_and_Analyze_Dataset.git
    ```
 
 2. **Run the Jupyter Notebook**:
